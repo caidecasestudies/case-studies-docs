@@ -1,6 +1,6 @@
 ---
 title: Facial Recognition for Policing
-weigth: -20
+weight: 1
 ---
 
 Some stuff written here.

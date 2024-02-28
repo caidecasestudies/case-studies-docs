@@ -1,6 +1,6 @@
 ---
 title: Voice Assistants and Biometric Data
-weight: -15
+weight: 2
 ---
 
 Voice Assistants and Biometric Data
