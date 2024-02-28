@@ -1,6 +1,6 @@
 baseURL = "http://localhost"
 languageCode = 'en-us'
-title = "Center for AI and Data Ethics (CAIDE) Case Studies"
+title = "CAIDE Case Studies"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false

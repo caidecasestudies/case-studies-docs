@@ -1,3 +1,8 @@
+---
+title: Voice Assistants and Biometric Data
+weight: -15
+---
+
 Voice Assistants and Biometric Data
 Amazon’s Violations of Children's Privacy Rights
 
