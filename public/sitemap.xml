@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/Case-Studies/</loc>
+  </url><url>
+    <loc>http://localhost/Case-Studies/Facial-Recognition-for-Policing/</loc>
+  </url><url>
+    <loc>http://localhost/Case-Studies/Voice-Assistants-and-Biometric-Data/</loc>
+  </url><url>
+    <loc>http://localhost/References/</loc>
+  </url><url>
+    <loc>http://localhost/References/Stuff1/</loc>
+  </url><url>
+    <loc>http://localhost/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>
