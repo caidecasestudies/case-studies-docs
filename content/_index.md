@@ -42,25 +42,27 @@ If you have found these materials useful, please let us know so that we can cont
 
 # People
 
-Meet the team of dedicated ethics researchers working on this project.
+Meet the team of dedicated ethics researchers working on this project below. Other members of CAIDE are listed [here](https://www.usfca.edu/data-institute/centers-initiatives/caide/who-we-are).
 
 {{< columns >}}
 
-[Robert Clements]()  
-Director of CAIDE  
-Assistant Professor, MS in Data Science
-{{< img name="robert" size="small" lazy=false >}}
+### [Robert Clements](https://www.usfca.edu/faculty/robert-clements)  
+Faculty Director of CAIDE  
+Assistant Professor, MS in Data Science  
+rclements@usfca.edu
+<!-- {{< img name="robert" size="small" lazy=false >}} -->
 
 <--->
 
-Hadley Dixon  
+### Hadley Dixon  
 Undergraduate Student Researcher
-{{< img name="hadley" size="small" lazy=false >}}
+<!--{{< img name="hadley" size="small" lazy=false >}}-->
 
 <--->
 
-Elisabeth Merkel  
-Director of the Data Institute
-{{< img name="lis" size="tiny" lazy=false >}}
+### Elisabeth Merkel  
+Senior Administrative Director    
+evmerkel@usfca.edu
+<!--{{< img name="lis" size="tiny" lazy=false >}} -->
 
 {{< /columns >}}
