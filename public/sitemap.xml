@@ -2,15 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/Case-Studies/</loc>
+    <loc>http://localhost/case-studies/</loc>
   </url><url>
-    <loc>http://localhost/Case-Studies/Facial-Recognition-for-Policing/</loc>
+    <loc>http://localhost/course-materials/</loc>
   </url><url>
-    <loc>http://localhost/Case-Studies/Voice-Assistants-and-Biometric-Data/</loc>
+    <loc>http://localhost/case-studies/facial-recognition-for-policing/</loc>
   </url><url>
-    <loc>http://localhost/References/</loc>
+    <loc>http://localhost/case-studies/voice-assistants-and-biometric-data/</loc>
   </url><url>
-    <loc>http://localhost/References/Stuff1/</loc>
+    <loc>http://localhost/course-materials/syllabus/</loc>
+  </url><url>
+    <loc>http://localhost/course-materials/resources/</loc>
   </url><url>
     <loc>http://localhost/</loc>
   </url><url>

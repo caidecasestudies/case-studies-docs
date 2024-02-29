@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Center for AI and Data Ethics (CAIDE) Case Studies</title>
+    <title>Center for AI &amp; Data Ethics - Home on CAIDE Case Studies</title>
     <link>http://localhost/</link>
-    <description>Recent content on Center for AI and Data Ethics (CAIDE) Case Studies</description>
+    <description>Recent content in Center for AI &amp; Data Ethics - Home on CAIDE Case Studies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost/Case-Studies/Facial-Recognition-for-Policing/</link>
+      <title>Facial Recognition for Policing</title>
+      <link>http://localhost/case-studies/facial-recognition-for-policing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/Case-Studies/Facial-Recognition-for-Policing/</guid>
+      <guid>http://localhost/case-studies/facial-recognition-for-policing/</guid>
       <description>Some stuff written here.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost/Case-Studies/Voice-Assistants-and-Biometric-Data/</link>
+      <title>Voice Assistants and Biometric Data</title>
+      <link>http://localhost/case-studies/voice-assistants-and-biometric-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/Case-Studies/Voice-Assistants-and-Biometric-Data/</guid>
+      <guid>http://localhost/case-studies/voice-assistants-and-biometric-data/</guid>
       <description>Voice Assistants and Biometric Data Amazon’s Violations of Children&amp;rsquo;s Privacy Rights&#xA;Themes: Data Security &amp;amp; Privacy&#xA;Prerequisites: None for the Case Study section&#xA;Owner: Center for AI and Data Ethics at University of San Francisco&#xA;Author(s): Hadley Dixon and Robert Clements&#xA;Links: Github repository: PDF&#xA;License: CC BY-NC-SA&#xA;Citation:&#xA;DOI:&#xA;Objective: The purpose of this case study is to introduce issues around data privacy and data security by learning the details about a specific lawsuit brought against a popular tech company, and use the details and results of that lawsuit to discuss the potential harms done by this company and other similar companies and gaps in our current laws and regulations around privacy.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost/References/Stuff1/</link>
+      <title>Course Syllabus</title>
+      <link>http://localhost/course-materials/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/References/Stuff1/</guid>
-      <description>List of references here, or something</description>
+      <guid>http://localhost/course-materials/syllabus/</guid>
+      <description>Sample syllabus goes here</description>
+    </item>
+    <item>
+      <title>AI/Data Ethics Resources</title>
+      <link>http://localhost/course-materials/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/course-materials/resources/</guid>
+      <description>Put a list of other ethics resources here&amp;hellip;</description>
     </item>
   </channel>
 </rss>

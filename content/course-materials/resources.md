@@ -1,5 +1,5 @@
 ---
-title: Ethics Resources
+title: AI/Data Ethics Resources
 weight: 21
 ---
 
